@@ -10,11 +10,11 @@ class CoursesPage extends React.Component {
         super(props, context);
     }
 
-/*
-    courseRow(course, index) {
-        return <li key={index} className="list-group-item list-group-item-success list-group-item-action"> {course.title} </li>;
-    }
-*/
+    /*
+        courseRow(course, index) {
+            return <li key={index} className="list-group-item list-group-item-success list-group-item-action"> {course.title} </li>;
+        }
+    */
 
     render() {
         const {courses} = this.props;
@@ -40,7 +40,7 @@ function mapStateToProps(state, ownProps) {
 }
 function mapDispatchToProps(dispatch) {
     return {
-      actions: bindActionCreators(courseActions, dispatch)
+        actions: bindActionCreators(courseActions, dispatch)
     };
 }
 
