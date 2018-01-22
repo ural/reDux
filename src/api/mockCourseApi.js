@@ -43,6 +43,14 @@ const courses = [
     authorId: "cory-house",
     length: "5:10",
     category: "HTML5"
+  },
+  {
+    id: "better--dont-forget-drupal",
+    title: "Get Drupal",
+    watchHref: "https://api.drupal.org/api/drupal",
+    authorId: "sebastian-pereira",
+    length: "11:12",
+    category: "DRUPAL 8"
   }
 ];
 
