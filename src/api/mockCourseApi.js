@@ -45,7 +45,7 @@ const courses = [
     category: "HTML5"
   },
   {
-    id: "better--dont-forget-drupal",
+    id: "better-dont-forget-drupal",
     title: "Get Drupal",
     watchHref: "https://api.drupal.org/api/drupal",
     authorId: "sebastian-pereira",
