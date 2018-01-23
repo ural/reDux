@@ -10,12 +10,6 @@ class CoursesPage extends React.Component {
         super(props, context);
     }
 
-    /*
-        courseRow(course, index) {
-            return <li key={index} className="list-group-item list-group-item-success list-group-item-action"> {course.title} </li>;
-        }
-    */
-
     render() {
         const {courses} = this.props;
 
