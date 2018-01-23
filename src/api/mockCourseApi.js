@@ -54,10 +54,19 @@ const courses = [
   },
   {
     id: 'В-поисках-капитана-Гранта',
-    title: 'В поисках капитана Гранта'
+    title: 'В поисках капитана Гранта',
     watchHref: 'https://www.youtube.com/watch?v=CApoSFjD5Us',
+    authorId: 'negoro',
     length: '1:04:23',
     category: 'Soviet Film'
+  },
+  {
+    id: 'jre',
+    title: 'JRE MMA Show #13 with Rose Namajunas & Pat Barry',
+    watchHref: 'https://www.youtube.com/watch?v=FoyodyNJxhA',
+    authorId: 'joe-rogan',
+    length: '1:04:23',
+    category: 'JRE MMA Show'
   }
 ];
 

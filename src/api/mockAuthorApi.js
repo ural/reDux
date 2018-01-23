@@ -23,6 +23,16 @@ const authors = [
     id: 'sebastian-pereira',
     firstName: 'Sebastian',
     lastName: 'Pereira'
+  },
+  {
+    id: 'negoro',
+    firstName: 'Negoro',
+    lastName: ''
+  },
+{
+    id: 'jre',
+    firstName: 'Joe',
+    lastName: 'Rogan'
   }
 ];
 
