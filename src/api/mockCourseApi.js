@@ -51,6 +51,13 @@ const courses = [
     authorId: "sebastian-pereira",
     length: "11:12",
     category: "DRUPAL 8"
+  },
+  {
+    id: 'В-поисках-капитана-Гранта',
+    title: 'В поисках капитана Гранта'
+    watchHref: 'https://www.youtube.com/watch?v=CApoSFjD5Us',
+    length: '1:04:23',
+    category: 'Soviet Film'
   }
 ];
 
