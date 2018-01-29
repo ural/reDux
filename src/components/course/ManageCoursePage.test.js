@@ -1,7 +1,7 @@
 import React from 'react';
 import expect from 'expect';
 import {mount, shallow} from 'enzyme';
-import {ManageCoursePage} from './ManageCoursePage'; // eslint-disable-line react/no-did-mount-set-state
+import {ManageCoursePage} from './ManageCoursePage'; // eslint-disable-line
 
 describe ('Manage Course Page', () => {
   it('sets error message upon blur of empty title field', () => {
