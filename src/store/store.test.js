@@ -19,7 +19,7 @@ describe('Store', () => {
         // assert
         const actual = store.getState().courses[0];
         const expected = {
-            title: 'Clean  Code'
+            title: 'Clean Store Code'
         };
 
         expect(actual).toEqual(expected);
